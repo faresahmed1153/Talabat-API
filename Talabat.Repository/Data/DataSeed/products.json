@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Smoky",
+    "Description": "Smoked Veal, Smoked Cheese, Onions, Gouda Cheese, Chedder Cheese, Creamy Sauce",
+    "Price": 200,
+    "PictureUrl": "images/products/Smoky.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Ranch Chicken Poppers",
+    "Description": "Chicken Poppers, Bacon, Onions,Jalapeño Pepper, Mozzarella cheese with Ranch sauce",
+    "Price": 205,
+    "PictureUrl": "images/products/Ranch-Chicken-Poppers-WS.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Pepperoni",
+    "Description": "Loaded with Pepperoni and Extra Mozzarella Cheese",
+    "Price": 183,
+    "PictureUrl": "images/products/Pepperoni.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Big Zack",
+    "Description": "2 Layers of Fried Chicken, Two Cheddar Slices, Mayonnaise, Lettuce, Tomato, Oinion, Pickles, BBQ sauce, Melted Cheddar, Turkey and Onion Rings.Served with French Fries and Coleslaw",
+    "Price": 100,
+    "PictureUrl": "images/products/BIG-ZACK.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "O’ranch",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 100,
+    "PictureUrl": "images/products/oranch.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Fire Bird",
+    "Description": "2 Layers of Fried Chicken, Two Cheddar Slices, Jalapeno Pepper, Lettuce, Tomato, Pickles, Fire Sauce, Melted Cheddar, Onion, Beef Bacon and Onion Rings Served with French Fries and Coleslaw",
+    "Price": 100,
+    "PictureUrl": "images/products/FIREBIRD.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Dinner Meal",
+    "Description": "3 pieces with bread, Coleslaw and fries",
+    "Price": 155,
+    "PictureUrl": "images/products/50-Combo.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Super Dinner Meal",
+    "Description": "4 pieces with bread, Coleslaw and fries",
+    "Price": 184,
+    "PictureUrl": "images/products/46-Combo.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Mighty Zinger Sandwich",
+    "Description": "2 Zinger Pieces with Cheese + Lettuce + Mayonnaise + Spicy Mayonnaise + Round Bread",
+    "Price": 115,
+    "PictureUrl": "images/products/110005.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Bacon Mushroom Jack",
+    "Description": "Beef bacon with fresh sautéed mushroom, cheddar cheese, and creamy mayonnaise.",
+    "Price": 150,
+    "PictureUrl": "images/products/Bacon Mushroom Jack.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Shiitake Mushroom",
+    "Description": "Sautéed mushroom, cheddar cheese, and creamy mayonnaise spread on top of our pure beef burger patty.",
+    "Price": 120,
+    "PictureUrl": "images/products/Shiitake Mushroom.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Big mac",
+    "Description": "Mouthwatering perfection is all about two 100% beef patties, that unbeatably tasty Big Mac sauce, melting signature cheese, crisp shredded lettuce, onions, pickles and a bun in the middle all between a toasted sesame seed bun. You know you want to.",
+    "Price": 130,
+    "PictureUrl": "images/products/Bigmac.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Big Tasty",
+    "Description": "What makes our Big Tasty so tasty? It’s the juicy beef patty smothered in three extraordinary slices of Emmental cheese, and topped with sliced tomato, shredded lettuce, onions and that special Big Tasty sauce.",
+    "Price": 145,
+    "PictureUrl": "images/products/Big-tasty-Beef.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Chicken Shawerma",
+    "Description": "Chicken Shawerma Rolled in syrian bread with garlic sauce",
+    "Price": 58,
+    "PictureUrl": "images/products/chicken.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Meat Shawerma",
+    "Description": "Meat Shawerma Rolled in syrian bread with sesame sauce",
+    "Price": 78,
+    "PictureUrl": "images/products/meat.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Lotus Biscoff Doughnut",
+    "Description": "Filled with Lotus biscoff, smothered with Lotus biscoff spread and topped with lotus biscoff crumb",
+    "Price": 45,
+    "PictureUrl": "images/products/lotus.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Nutty Cocoa Filled Ring",
+    "Description": "Filled & dipped in Nutella hazelnut spread, topped off with crunchy hazelnut pieces, and drizzled with chocolate icing",
+    "Price": 45,
+    "PictureUrl": "images/products/ring.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Chocolate Iced Custard Filled",
+    "Description": "Filled with creamy custard and hand-dipped in rich chocolate icing.",
+    "Price": 39,
+    "PictureUrl": "images/products/custer.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 7
+  }
+]
